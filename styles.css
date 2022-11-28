@@ -1,0 +1,32 @@
+
+body{
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.bozi {
+    width: 200px;
+    height: 200px;
+    border-radius: 12px;
+}
+
+.card {
+    width: 450px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background: #c0eeeb;
+    color: #2b2839;
+    border-bottom: 8px solid #ff8528;
+    border-radius: 12px;
+
+    
+}
+
+.blue {
+    border: 1px dotted blue;
+    
+}
